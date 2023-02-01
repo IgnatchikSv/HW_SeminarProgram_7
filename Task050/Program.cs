@@ -46,7 +46,7 @@ if (n > array.GetLength(0) || m > array.GetLength(1))
 }
 else
 {
-    Console.WriteLine($"значение элемента {n} строки и {m} столбца равно {array[n-1,m-1]}");
+    Console.WriteLine($"Значение элемента {n} строки и {m} столбца равно {array[n-1,m-1]}");
 }
 
 
