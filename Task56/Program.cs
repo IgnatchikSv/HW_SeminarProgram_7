@@ -56,13 +56,14 @@ int getMinSumString(int[,] array)
     {
       sumString = tempSumString;
       minSumString = i;
+      Console.WriteLine($"\n{minSumString + 1} строкa с наименьшей суммой элементов - {sumString}");
+      Console.WriteLine();
     }
   }
   return minSumString;
-  Console.WriteLine($"\n{minSumString + 1}  строкa с наименьшей суммой элементов - {sumString}");
 }
 
 int[,] array = generate2DArray(4, 5, 0, 10);
 printArray(array);
-int minSumString = getMinSumString(array);
 
+int minSumString = getMinSumString(array);
