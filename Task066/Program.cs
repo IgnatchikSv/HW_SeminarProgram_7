@@ -32,6 +32,7 @@ int userDataFinish = getDataFromUser($"Введите значение числ�
 int sumOfRange = getSumofRange(userDataStart, userDataFinish);
 Console.ForegroundColor = ConsoleColor.Yellow;
 Console.WriteLine($"Сумма чисел от {userDataStart} до {userDataFinish} равна {sumOfRange}");
+Console.WriteLine();
 
 
 
