@@ -1,0 +1,15 @@
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\bin\Debug\net6.0\Task63.exe
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\bin\Debug\net6.0\Task63.deps.json
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\bin\Debug\net6.0\Task63.runtimeconfig.json
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\bin\Debug\net6.0\Task63.dll
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\bin\Debug\net6.0\Task63.pdb
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\Task63.csproj.AssemblyReference.cache
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\Task63.GeneratedMSBuildEditorConfig.editorconfig
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\Task63.AssemblyInfoInputs.cache
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\Task63.AssemblyInfo.cs
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\Task63.csproj.CoreCompileInputs.cache
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\Task63.dll
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\refint\Task63.dll
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\Task63.pdb
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\Task63.genruntimeconfig.cache
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task63\obj\Debug\net6.0\ref\Task63.dll

@@ -1,0 +1,15 @@
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\Task069.csproj.AssemblyReference.cache
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\Task069.GeneratedMSBuildEditorConfig.editorconfig
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\Task069.AssemblyInfoInputs.cache
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\Task069.AssemblyInfo.cs
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\Task069.csproj.CoreCompileInputs.cache
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\bin\Debug\net6.0\Task069.exe
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\bin\Debug\net6.0\Task069.deps.json
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\bin\Debug\net6.0\Task069.runtimeconfig.json
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\bin\Debug\net6.0\Task069.dll
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\bin\Debug\net6.0\Task069.pdb
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\Task069.dll
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\refint\Task069.dll
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\Task069.pdb
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\Task069.genruntimeconfig.cache
+D:\Света\Geekbrains\HW\HW_SeminarProgram_7\Task069\obj\Debug\net6.0\ref\Task069.dll
