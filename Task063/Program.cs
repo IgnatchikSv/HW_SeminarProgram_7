@@ -4,12 +4,13 @@ N = 5 -> "1, 2, 3, 4, 5"
 N = 6 -> "1, 2, 3, 4, 5, 6"
 */
 
+Console.Clear();
 
 int getDataFromUser (string message)
 {
   Console.ForegroundColor = ConsoleColor.Blue;
   Consocle.WriteLine(message);
-  Console.ResetcOLOR();
+  Console.ResetColor();
   int result = int.Parse(Console.ReadLine());
 }
 
